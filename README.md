@@ -1,0 +1,1 @@
+Origina repo with fake jwt https://github.com/troquatte/curso-de-angular-fake-jwt
